@@ -7,7 +7,7 @@
 - 😄 - Pronomes: Ele/Dele
 - ⚡ - Fun fact: Eu gosto de desenhar, mas me estresso enquanto desenho e me pergunto porque eu estou fazendo aquilo.
 
-### Minhas linguagens são essas, mesmo que ainda não seja extremamente bom em nenhuma delas kk.
+### Minhas linguagens são essas, mesmo que ainda não seja extremamente bom em nenhuma delas.
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
