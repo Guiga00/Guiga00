@@ -17,8 +17,6 @@ Quero um café e gosto de dormir...
 
 ## 📫 Como me encontrar
 
-Você pode me encontrar em diversas plataformas. Vamos nos conectar!
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-medeiros-6275901a2/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guiga00)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermemedeiros01844@gmail.com)
