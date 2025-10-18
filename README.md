@@ -1,6 +1,6 @@
-# Olá, eu sou Guilherme! 👋
+# Yo, i`m Guilherme! 👋
 
-Quero um café e gosto de dormir...
+Gimme a coffee and i want to sleep...
 
 <br>
 
@@ -14,7 +14,7 @@ Quero um café e gosto de dormir...
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 
-## 📫 Como me encontrar
+## 📫 You can send me message here:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-medeiros-6275901a2/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guiga00)
