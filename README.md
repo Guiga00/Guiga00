@@ -21,6 +21,6 @@ Gimme a coffee and i want to sleep...
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermemedeiros01844@gmail.com)
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Guiga00&show_icons=true&theme=ADD_THEME_HERE" width="400">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiga00)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
