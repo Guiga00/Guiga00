@@ -7,8 +7,6 @@ R7 5700X | RTX 2060 | 32GB DDR4 3200MHz | B550 Aorus Elite
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,6 +28,11 @@ R7 5700X | RTX 2060 | 32GB DDR4 3200MHz | B550 Aorus Elite
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiga00&show_icons=true&theme=chartreuse-dark&title_color=fff&text_color=fff&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiga00&theme=chartreuse-dark&title_color=fff&text_color=fff&layout=compact&langs_count=7&hide_border=true" alt="Top Languages" />
 </div>
+<br/>
+<div align="center"> 
+  <img height="100px" src="https://i.imgur.com/FhMqZ30.gif">
+<div/>
+
 
 ## 📫 Get in Touch
 
